@@ -1,0 +1,37 @@
+# base44
+
+> JavaScript shelf for Base44. Sister of base44-projects and the many Base44 apps.
+
+## Purpose
+Give a plain-language door to fitzyracing1/base44.
+
+## How it works (plain English)
+1. Keep the original repo as the Base44 core shelf.
+2. Use this clone to explain the idea.
+3. Send the reader to named apps (fixerup, market-connect, earthmobile) when they want a product.
+
+## Key ideas
+- Base44 (the named platform shelf)
+- JavaScript source
+
+## The actual code
+```
+# source: fitzyracing1/base44
+open_source()
+```
+
+## Line-by-line translation
+1. open_source() → “go to fitzyracing1/base44”
+
+## Decisions the program makes
+- If a reader wants the project list → base44-projects
+- If a reader wants this core → stay on the source
+
+## What a person would notice
+A named wrap on the Base44 door.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the source.
